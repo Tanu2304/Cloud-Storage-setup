@@ -1,1 +1,18 @@
 # Cloud-Storage-setup
+
+**COMPANY**:CODTECH IT SOLUTIONS 
+
+**NAME**:TANVI MAHADEV PATIL
+
+**INTERN ID**:CT08ILJ
+
+**DOMAIN NAME**:CLOUD COMPUTING
+
+**BATCH DURATION**: January 5th, 2025 to February 5th, 2025.
+
+**MENTOR NAME**: Neela Santhosh Kumar  
+
+CHATGPT YOUTUBE
+
+
+
